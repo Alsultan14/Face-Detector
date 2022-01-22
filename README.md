@@ -7,11 +7,11 @@
 This project is done during SDAIA Academy bootcamp of Data Science and AI.
 
 # About the repository:
-- [Project Proposal](https://github.com/Alsultan14/Face-Detector/blob/main/Proposal)
-- [Project MVP](https://github.com/Alsultan14/Face-Detector/blob/main/MVP)
+- [Project Proposal](https://github.com/Alsultan14/Face-Detector/tree/main/Overview)
+- [Project MVP](https://github.com/Alsultan14/Face-Detector/tree/main/MVP)
 - [Jupyter Notebooks](https://github.com/halaalanzi/Face-Detector-Deep-Learning-Project/tree/main/Jupyter%20Notebooks)
-- [Final Report](https://github.com/Alsultan14/Face-Detector/blob/main/Overview)
-- [Slides Presentation](https://github.com/Alsultan14/Face-Detector/blob/main/Facial%20DL.pptx)
+- [Final Report](https://github.com/Alsultan14/Face-Detector/blob/main/Report/README.md)
+- [Slides Presentation](https://github.com/Alsultan14/Face-Detector/tree/main/Presentation)
 
 ### Contact Me
 For any questions please contact me <br/>
