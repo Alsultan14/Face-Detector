@@ -29,4 +29,4 @@ Deep learing algorithms that has been used in this project:
 - keras and tensorflow for deep learing models and image preprocessing.
 
 ## Communication
-The project process and result has presented. To see the presentation slides click [here]
+The project process and result has presented. To see the presentation slides click [https://github.com/Alsultan14/Face-Detector/tree/main/Presentation]
